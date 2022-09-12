@@ -7,3 +7,5 @@ how to go staging to unstage
 learning branching here.
 
 this is used for master.
+
+this is added for bugfix.
